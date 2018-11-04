@@ -91,6 +91,7 @@ You can start multiple experiments at once using `python run_experiments.py \</p
  
 =======
 # PESC-HPC
+updated 11/4/2018 chongke wu 
 Refer to the readme in https://github.com/HIPS/Spearmint/blob/master/README.md
 In HPC, you not allowed to use -- fork and sudo. 
 How to install python packets in HPC.
