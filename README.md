@@ -1,6 +1,6 @@
 # PESC-HPC
 updated 11/4/2018 chongke wu   
-Refer to the readme in https://github.com/HIPS/Spearmint/blob/master/README.md  
+Refer to the readme in https://github.com/HIPS/Spearmint/blob/PESC/README.md  
 In HPC, you not allowed to use -- fork and sudo.  
 
 1. How to install python packets in HPC.   
