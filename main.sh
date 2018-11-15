@@ -1,0 +1,22 @@
+#!/bin/bash
+cd /home/u32/chongkewu/PESC/Spearmint-PESC/spearmint
+exp_folder="simple"
+Num=5
+##cleanup
+python /home/u32/chongkewu/PESC/Spearmint-PESC/spearmint/cleanup.py /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder
+##run_exp
+#python /home/u32/chongkewu/PESC/Spearmint-PESC/spearmint/main.py /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder
+##look_result
+#python /home/u32/chongkewu/PESC/Spearmint-PESC/spearmint/print_all_results.py /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder
+
+################################################################################
+
+##repeat_exp
+python ./run_experiments.py /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder $Num
+
+##look_curve
+python /home/u32/chongkewu/PESC/Spearmint-PESC/spearmint/visualizations/progress_curve.py /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder --repeat=$Num
+##open_curve
+xdg-open /home/u32/chongkewu/PESC/Spearmint-PESC/examples/$exp_folder/plots/mean_error.pdf
+
+

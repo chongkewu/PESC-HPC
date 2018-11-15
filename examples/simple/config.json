@@ -4,6 +4,7 @@
     "experiment-name" : "simple-braninhoo-example",
     "likelihood"      : "NOISELESS",
     "acquisition"     : "PES",
+    "max_finished_jobs" : 2,
     "variables" : {
         "x" : {
             "type" : "FLOAT",
