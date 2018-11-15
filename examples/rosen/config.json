@@ -1,0 +1,22 @@
+{
+    "language"        : "PYTHON",
+    "main_file"       : "rosen.py",
+    "experiment-name" : "simple-rosenoo-example",
+    "likelihood"      : "NOISELESS",
+    "acquisition"     : "PES",
+    "variables" : {
+        "x" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        },
+        "y" : {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min"  : -2,
+            "max"  : 2
+        }
+    }
+}
+
