@@ -4,6 +4,7 @@
     "experiment-name" : "branin-constrained-example",
     "likelihood"      : "NOISELESS",
     "acquisition"     : "PES",
+    "max_finished_jobs" : 30,
     "variables": {
         "X": {
             "type": "FLOAT",
@@ -20,13 +21,16 @@
     },
     "tasks": {
       "branin" : {
-          "type"        : "OBJECTIVE"
+          "type"        : "OBJECTIVE",
+	
       },
       "y_at_least_x" : {
-          "type"        : "CONSTRAINT"
+          "type"        : "CONSTRAINT",
+		
       },
       "y_at_most_10" : {
           "type"        : "CONSTRAINT"
+	
       }
     }
 }

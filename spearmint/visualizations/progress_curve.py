@@ -360,6 +360,8 @@ def main(dirs,
         n_repeat = int(n_repeat)
         if n_repeat < 0:
             recs = db.load(experiment_name, db_document_name)
+            import pdb
+            pdb.set_trace()
             if recs is None:
                 raise Exception("Could not find experiment %s in database at %s" % (experiment_name, options['database']['address']))
 

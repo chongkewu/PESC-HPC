@@ -9,7 +9,7 @@
     "constraint_delta"     : 1e-4,
     "stability_jitter"     : 1e-6,
     "use_multi_delta"      : "False",
-    "recommendations"      : "end-all",
+    "recommendations"      : "during",
     "likelihood"           : "noiseless",
     "variables" : {
         "x" : {

@@ -4,6 +4,7 @@
     "experiment-name" : "simple-rosenoo-example",
     "likelihood"      : "NOISELESS",
     "acquisition"     : "PES",
+    "max_finished_jobs" : 100,
     "variables" : {
         "x" : {
             "type" : "FLOAT",

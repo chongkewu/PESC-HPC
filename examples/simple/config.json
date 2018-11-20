@@ -1,10 +1,9 @@
-{
-    "language"        : "PYTHON",
+{    "language"        : "PYTHON",
     "main_file"       : "branin.py",
     "experiment-name" : "simple-braninhoo-example",
     "likelihood"      : "NOISELESS",
     "acquisition"     : "PES",
-    "max_finished_jobs" : 20,
+    "max_finished_jobs" : 100,
     "variables" : {
         "x" : {
             "type" : "FLOAT",

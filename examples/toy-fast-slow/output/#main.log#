@@ -1,0 +1,1919 @@
+
+Getting suggestion for c2, c1, f...
+
+
+Suggestion:     
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000000    
+                y             float      0.000000    
+Current time: 2018-11-18 21:10:03
+Status: 1 pending, 0 complete.
+ID(s) of pending job(s) for f: 1
+
+
+Fitting GP to 0 data for c2 task...
+Fitting GP to 0 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.25000
+  Probability of satisfying                 c2 constraint: 0.50000
+  Probability of satisfying                 c1 constraint: 0.50000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.419434    
+                y             float      0.864746    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.911339    
+                y             float      0.116864    
+Current time: 2018-11-18 21:10:09
+Status: 1 pending, 1 complete.
+ID(s) of pending job(s) for c1: 2
+
+
+Fitting GP to 0 data for c2 task...
+Fitting GP to 1 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.21601
+  Probability of satisfying                 c2 constraint: 0.50000
+  Probability of satisfying                 c1 constraint: 0.43202
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000000    
+                y             float      1.000000    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.260262    
+                y             float      0.435867    
+Current time: 2018-11-18 21:10:19
+Status: 1 pending, 2 complete.
+ID(s) of pending job(s) for c1: 3
+
+
+Fitting GP to 0 data for c2 task...
+Fitting GP to 2 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.50000
+  Probability of satisfying                 c2 constraint: 0.50000
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.260262    
+                y             float      0.435867    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.458459    
+                y             float      0.122088    
+Current time: 2018-11-18 21:10:28
+Status: 1 pending, 3 complete.
+ID(s) of pending job(s) for c2: 4
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 2 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.82688
+  Probability of satisfying                 c2 constraint: 0.82793
+  Probability of satisfying                 c1 constraint: 0.99874
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.273984    
+                y             float      0.431468    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.502433    
+                y             float      0.977429    
+Current time: 2018-11-18 21:11:34
+Status: 1 pending, 4 complete.
+ID(s) of pending job(s) for c1: 5
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 3 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.87397
+  Probability of satisfying                 c2 constraint: 0.87422
+  Probability of satisfying                 c1 constraint: 0.99971
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.261104    
+                y             float      0.431114    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.319169    
+                y             float      0.275914    
+Current time: 2018-11-18 21:11:42
+Status: 1 pending, 5 complete.
+ID(s) of pending job(s) for c1: 6
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 4 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.84909
+  Probability of satisfying                 c2 constraint: 0.84942
+  Probability of satisfying                 c1 constraint: 0.99961
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.261782    
+                y             float      0.430102    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.378417    
+                y             float      0.400175    
+Current time: 2018-11-18 21:11:52
+Status: 1 pending, 6 complete.
+ID(s) of pending job(s) for c1: 7
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 5 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.86772
+  Probability of satisfying                 c2 constraint: 0.87117
+  Probability of satisfying                 c1 constraint: 0.99604
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.441962    
+                y             float      0.401907    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.994485    
+                y             float      0.000000    
+Current time: 2018-11-18 21:12:00
+Status: 1 pending, 7 complete.
+ID(s) of pending job(s) for c1: 8
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 6 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.86123
+  Probability of satisfying                 c2 constraint: 0.86216
+  Probability of satisfying                 c1 constraint: 0.99892
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.394996    
+                y             float      0.394632    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.018059    
+                y             float      0.401226    
+Current time: 2018-11-18 21:12:08
+Status: 1 pending, 8 complete.
+ID(s) of pending job(s) for c1: 9
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 7 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.89074
+  Probability of satisfying                 c2 constraint: 0.89136
+  Probability of satisfying                 c1 constraint: 0.99930
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.423921    
+                y             float      0.397539    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000000    
+                y             float      0.441433    
+Current time: 2018-11-18 21:12:17
+Status: 1 pending, 9 complete.
+ID(s) of pending job(s) for c1: 10
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 8 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.82491
+  Probability of satisfying                 c2 constraint: 0.86993
+  Probability of satisfying                 c1 constraint: 0.94825
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.454315    
+                y             float      0.411720    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.679743    
+                y             float      0.344089    
+Current time: 2018-11-18 21:12:26
+Status: 1 pending, 10 complete.
+ID(s) of pending job(s) for c1: 11
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 9 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.74732
+  Probability of satisfying                 c2 constraint: 0.74764
+  Probability of satisfying                 c1 constraint: 0.99957
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.404960    
+                y             float      0.395961    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000048    
+                y             float      0.000027    
+Current time: 2018-11-18 21:12:36
+Status: 1 pending, 11 complete.
+ID(s) of pending job(s) for c1: 12
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 10 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.93881
+  Probability of satisfying                 c2 constraint: 0.93896
+  Probability of satisfying                 c1 constraint: 0.99984
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.393751    
+                y             float      0.395543    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.973962    
+                y             float      0.425599    
+Current time: 2018-11-18 21:12:45
+Status: 1 pending, 12 complete.
+ID(s) of pending job(s) for c1: 13
+
+
+Fitting GP to 1 data for c2 task...
+Fitting GP to 11 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.76775
+  Probability of satisfying                 c2 constraint: 0.76814
+  Probability of satisfying                 c1 constraint: 0.99949
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.395235    
+                y             float      0.394386    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.998666    
+                y             float      0.938928    
+Current time: 2018-11-18 21:12:53
+Status: 1 pending, 13 complete.
+ID(s) of pending job(s) for c2: 14
+
+
+Fitting GP to 2 data for c2 task...
+Fitting GP to 11 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.82059
+  Probability of satisfying                 c2 constraint: 0.82339
+  Probability of satisfying                 c1 constraint: 0.99660
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.412905    
+                y             float      0.402888    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.848034    
+                y             float      0.882924    
+Current time: 2018-11-18 21:14:00
+Status: 1 pending, 14 complete.
+ID(s) of pending job(s) for c2: 15
+
+
+Fitting GP to 3 data for c2 task...
+Fitting GP to 11 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.81737
+  Probability of satisfying                 c2 constraint: 0.81745
+  Probability of satisfying                 c1 constraint: 0.99990
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.387871    
+                y             float      0.395138    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.975924    
+                y             float      0.151980    
+Current time: 2018-11-18 21:15:06
+Status: 1 pending, 15 complete.
+ID(s) of pending job(s) for c1: 16
+
+
+Fitting GP to 3 data for c2 task...
+Fitting GP to 12 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.93536
+  Probability of satisfying                 c2 constraint: 0.93563
+  Probability of satisfying                 c1 constraint: 0.99971
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.412424    
+                y             float      0.395757    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.654779    
+                y             float      0.381393    
+Current time: 2018-11-18 21:15:17
+Status: 1 pending, 16 complete.
+ID(s) of pending job(s) for c1: 17
+
+
+Fitting GP to 3 data for c2 task...
+Fitting GP to 13 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.86756
+  Probability of satisfying                 c2 constraint: 0.86767
+  Probability of satisfying                 c1 constraint: 0.99988
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.389803    
+                y             float      0.395308    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.850822    
+                y             float      0.920191    
+Current time: 2018-11-18 21:15:27
+Status: 1 pending, 17 complete.
+ID(s) of pending job(s) for c2: 18
+
+
+Fitting GP to 4 data for c2 task...
+Fitting GP to 13 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.95302
+  Probability of satisfying                 c2 constraint: 0.95315
+  Probability of satisfying                 c1 constraint: 0.99986
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.385985    
+                y             float      0.397868    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.278567    
+                y             float      0.344077    
+Current time: 2018-11-18 21:16:34
+Status: 1 pending, 18 complete.
+ID(s) of pending job(s) for c1: 19
+
+
+Fitting GP to 4 data for c2 task...
+Fitting GP to 14 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.90612
+  Probability of satisfying                 c2 constraint: 0.90644
+  Probability of satisfying                 c1 constraint: 0.99965
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.388653    
+                y             float      0.399242    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.523761    
+                y             float      0.371870    
+Current time: 2018-11-18 21:16:43
+Status: 1 pending, 19 complete.
+ID(s) of pending job(s) for c1: 20
+
+
+Fitting GP to 4 data for c2 task...
+Fitting GP to 15 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99021
+  Probability of satisfying                 c2 constraint: 0.99055
+  Probability of satisfying                 c1 constraint: 0.99965
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.403613    
+                y             float      0.400468    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.968352    
+                y             float      0.776149    
+Current time: 2018-11-18 21:16:52
+Status: 1 pending, 20 complete.
+ID(s) of pending job(s) for c2: 21
+
+
+Fitting GP to 5 data for c2 task...
+Fitting GP to 15 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.96125
+  Probability of satisfying                 c2 constraint: 0.96176
+  Probability of satisfying                 c1 constraint: 0.99947
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.401723    
+                y             float      0.397557    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.985008    
+                y             float      0.284263    
+Current time: 2018-11-18 21:17:58
+Status: 1 pending, 21 complete.
+ID(s) of pending job(s) for c1: 22
+
+
+Fitting GP to 5 data for c2 task...
+Fitting GP to 16 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99871
+  Probability of satisfying                 c2 constraint: 0.99874
+  Probability of satisfying                 c1 constraint: 0.99998
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.388088    
+                y             float      0.398324    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.761728    
+                y             float      1.000000    
+Current time: 2018-11-18 21:18:07
+Status: 1 pending, 22 complete.
+ID(s) of pending job(s) for c2: 23
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 16 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99916
+  Probability of satisfying                 c2 constraint: 0.99918
+  Probability of satisfying                 c1 constraint: 0.99998
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.387360    
+                y             float      0.399490    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.983492    
+                y             float      0.472056    
+Current time: 2018-11-18 21:19:14
+Status: 1 pending, 23 complete.
+ID(s) of pending job(s) for f: 24
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 16 data for c1 task...
+Fitting GP to 2 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99801
+  Probability of satisfying                 c2 constraint: 0.99804
+  Probability of satisfying                 c1 constraint: 0.99998
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.391384    
+                y             float      0.397285    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.422213    
+                y             float      0.922865    
+Current time: 2018-11-18 21:19:20
+Status: 1 pending, 24 complete.
+ID(s) of pending job(s) for f: 25
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 16 data for c1 task...
+Fitting GP to 3 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99988
+  Probability of satisfying                 c2 constraint: 0.99988
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.387251    
+                y             float      0.397998    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.469754    
+                y             float      0.000000    
+Current time: 2018-11-18 21:19:27
+Status: 1 pending, 25 complete.
+ID(s) of pending job(s) for c1: 26
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 17 data for c1 task...
+Fitting GP to 3 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99953
+  Probability of satisfying                 c2 constraint: 0.99954
+  Probability of satisfying                 c1 constraint: 0.99999
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.389056    
+                y             float      0.398501    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.126130    
+                y             float      0.397452    
+Current time: 2018-11-18 21:19:37
+Status: 1 pending, 26 complete.
+ID(s) of pending job(s) for c1: 27
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 18 data for c1 task...
+Fitting GP to 3 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99586
+  Probability of satisfying                 c2 constraint: 0.99714
+  Probability of satisfying                 c1 constraint: 0.99872
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.619707    
+                y             float      0.935365    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.238419    
+                y             float      0.429030    
+Current time: 2018-11-18 21:19:47
+Status: 1 pending, 27 complete.
+ID(s) of pending job(s) for f: 28
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 18 data for c1 task...
+Fitting GP to 4 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99955
+  Probability of satisfying                 c2 constraint: 0.99956
+  Probability of satisfying                 c1 constraint: 0.99999
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.393574    
+                y             float      0.396451    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.025868    
+                y             float      0.264608    
+Current time: 2018-11-18 21:19:55
+Status: 1 pending, 28 complete.
+ID(s) of pending job(s) for c1: 29
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 19 data for c1 task...
+Fitting GP to 4 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99654
+  Probability of satisfying                 c2 constraint: 0.99656
+  Probability of satisfying                 c1 constraint: 0.99998
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.392075    
+                y             float      0.394310    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.182218    
+                y             float      0.396881    
+Current time: 2018-11-18 21:20:06
+Status: 1 pending, 29 complete.
+ID(s) of pending job(s) for c1: 30
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 20 data for c1 task...
+Fitting GP to 4 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99341
+  Probability of satisfying                 c2 constraint: 0.99344
+  Probability of satisfying                 c1 constraint: 0.99997
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.400020    
+                y             float      0.394027    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.255340    
+                y             float      0.397766    
+Current time: 2018-11-18 21:20:17
+Status: 1 pending, 30 complete.
+ID(s) of pending job(s) for f: 31
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 20 data for c1 task...
+Fitting GP to 5 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99426
+  Probability of satisfying                 c2 constraint: 0.99437
+  Probability of satisfying                 c1 constraint: 0.99988
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.402090    
+                y             float      0.397746    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000000    
+                y             float      0.526437    
+Current time: 2018-11-18 21:20:26
+Status: 1 pending, 31 complete.
+ID(s) of pending job(s) for c1: 32
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 21 data for c1 task...
+Fitting GP to 5 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99968
+  Probability of satisfying                 c2 constraint: 0.99968
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.403976    
+                y             float      0.395503    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.190057    
+                y             float      0.408466    
+Current time: 2018-11-18 21:20:37
+Status: 1 pending, 32 complete.
+ID(s) of pending job(s) for c1: 33
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 22 data for c1 task...
+Fitting GP to 5 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99953
+  Probability of satisfying                 c2 constraint: 0.99953
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.391539    
+                y             float      0.392451    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.192833    
+                y             float      0.431097    
+Current time: 2018-11-18 21:20:48
+Status: 1 pending, 33 complete.
+ID(s) of pending job(s) for c1: 34
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 23 data for c1 task...
+Fitting GP to 5 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99993,c1:1.00000): 0.783775
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.355591    
+                y             float      0.396606    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.199036    
+                y             float      0.413898    
+Current time: 2018-11-18 21:21:01
+Status: 1 pending, 34 complete.
+ID(s) of pending job(s) for f: 35
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 23 data for c1 task...
+Fitting GP to 6 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99991,c1:1.00000): 0.804116
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.393677    
+                y             float      0.393677    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.599552    
+                y             float      0.000000    
+Current time: 2018-11-18 21:21:10
+Status: 1 pending, 35 complete.
+ID(s) of pending job(s) for c1: 36
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 24 data for c1 task...
+Fitting GP to 6 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99983
+  Probability of satisfying                 c2 constraint: 0.99983
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.399036    
+                y             float      0.394969    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206774    
+                y             float      0.400776    
+Current time: 2018-11-18 21:21:22
+Status: 1 pending, 36 complete.
+ID(s) of pending job(s) for c1: 37
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 25 data for c1 task...
+Fitting GP to 6 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99990,c1:1.00000): 0.810952
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.398847    
+                y             float      0.395038    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.000000    
+                y             float      0.832617    
+Current time: 2018-11-18 21:21:33
+Status: 1 pending, 37 complete.
+ID(s) of pending job(s) for f: 38
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 25 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99989
+  Probability of satisfying                 c2 constraint: 0.99989
+  Probability of satisfying                 c1 constraint: 1.00000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.401974    
+                y             float      0.395543    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.421692    
+                y             float      0.091842    
+Current time: 2018-11-18 21:21:43
+Status: 1 pending, 38 complete.
+ID(s) of pending job(s) for c1: 39
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 26 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99991,c1:1.00000): 0.790786
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.378417    
+                y             float      0.400175    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.194760    
+                y             float      0.408109    
+Current time: 2018-11-18 21:21:56
+Status: 1 pending, 39 complete.
+ID(s) of pending job(s) for c1: 40
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 27 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99393
+  Probability of satisfying                 c2 constraint: 0.99395
+  Probability of satisfying                 c1 constraint: 0.99998
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.394393    
+                y             float      0.391649    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.197312    
+                y             float      0.403630    
+Current time: 2018-11-18 21:22:08
+Status: 1 pending, 40 complete.
+ID(s) of pending job(s) for c1: 41
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 28 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99992,c1:1.00000): 0.710419
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.309021    
+                y             float      0.397278    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.196375    
+                y             float      0.403242    
+Current time: 2018-11-18 21:22:19
+Status: 1 pending, 41 complete.
+ID(s) of pending job(s) for c1: 42
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 29 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.99666
+  Probability of satisfying                 c2 constraint: 0.99667
+  Probability of satisfying                 c1 constraint: 0.99999
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.387989    
+                y             float      0.390950    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.032981    
+                y             float      0.672090    
+Current time: 2018-11-18 21:22:31
+Status: 1 pending, 42 complete.
+ID(s) of pending job(s) for c1: 43
+
+
+Fitting GP to 6 data for c2 task...
+Fitting GP to 30 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:0.99992,c1:1.00000): 0.775862
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.378113    
+                y             float      0.390686    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c2 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.255505    
+                y             float      0.395512    
+Current time: 2018-11-18 21:22:44
+Status: 1 pending, 43 complete.
+ID(s) of pending job(s) for c2: 44
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 30 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99996): 0.607235
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206774    
+                y             float      0.400776    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.195145    
+                y             float      0.403555    
+Current time: 2018-11-18 21:23:54
+Status: 1 pending, 44 complete.
+ID(s) of pending job(s) for c1: 45
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 31 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99990): 0.606821
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206543    
+                y             float      0.400655    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.195141    
+                y             float      0.403787    
+Current time: 2018-11-18 21:24:05
+Status: 1 pending, 45 complete.
+ID(s) of pending job(s) for c1: 46
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 32 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99991): 0.606839
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206420    
+                y             float      0.400662    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.194397    
+                y             float      0.403794    
+Current time: 2018-11-18 21:24:16
+Status: 1 pending, 46 complete.
+ID(s) of pending job(s) for c1: 47
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 33 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99991): 0.606717
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206420    
+                y             float      0.400662    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.194748    
+                y             float      0.403628    
+Current time: 2018-11-18 21:24:27
+Status: 1 pending, 47 complete.
+ID(s) of pending job(s) for c1: 48
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 34 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99991): 0.606967
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206313    
+                y             float      0.400763    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.195184    
+                y             float      0.403700    
+Current time: 2018-11-18 21:24:39
+Status: 1 pending, 48 complete.
+ID(s) of pending job(s) for c1: 49
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 35 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99992): 0.606694
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206287    
+                y             float      0.400844    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.196244    
+                y             float      0.403404    
+Current time: 2018-11-18 21:24:49
+Status: 1 pending, 49 complete.
+ID(s) of pending job(s) for c1: 50
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 36 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99990): 0.606627
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206141    
+                y             float      0.400823    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.195294    
+                y             float      0.403622    
+Current time: 2018-11-18 21:25:00
+Status: 1 pending, 50 complete.
+ID(s) of pending job(s) for c1: 51
+Maximum total experiment time of 15.000000 minutes reached.
+Making final recommendation:
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99991): 0.191015
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206071    
+                y             float      0.400884    
+Have a nice day.
+Fitting GP to 7 data for c2 task...
+Fitting GP to 37 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99996): 0.607149
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206774    
+                y             float      0.400776    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c2.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.195213    
+                y             float      0.403585    
+Current time: 2018-11-19 13:56:56
+Status: 1 pending, 51 complete.
+ID(s) of pending job(s) for c1: 52
+
+
+Fitting GP to 7 data for c2 task...
+Fitting GP to 38 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c2:1.00000,c1:0.99994): 0.607139
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.206790    
+                y             float      0.400614    
+
+Getting suggestion for c2, c1, f...
+
+Initializing PES

@@ -274,7 +274,6 @@ def main(expt_dir, config_file="config.json", no_output=False, repeat=-1):
 
     waiting_for_results = False  # for printing purposes only
     while True:
-
         for resource_name, resource in resources.iteritems():
 
             jobs = load_jobs(db, experiment_name)
@@ -407,7 +406,6 @@ def main(expt_dir, config_file="config.json", no_output=False, repeat=-1):
                 logging.info('Maximum number of jobs reached for at least one task.')
             if terminate_maxtime:
                 logging.info('Maximum total experiment time of %f minutes reached.' % options['max_time_mins'])
-
             # save rec in DB
             if options['recommendations'] in ("during", "end-one"):
                 logging.info('Making final recommendation:')
