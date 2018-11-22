@@ -17,7 +17,7 @@ def main(expt_dir, repeat, repeat_start=0):
         if not os.path.isdir(output_dir):
             os.mkdir(output_dir)
         output_filename = os.path.join(output_dir, "main.log")
-        output_file = open(output_filename, 'w')
+        output_file = open(output_filename, 'a')
 
         subprocess.Popen(shlex.split("python main.py %s --repeat=%d" % (expt_dir, i)),
             stdout=output_file, stderr=output_file)
