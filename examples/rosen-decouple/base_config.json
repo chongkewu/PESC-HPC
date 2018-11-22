@@ -1,10 +1,11 @@
 {
     "language"             : "PYTHON",
-    "main_file"            : "toy",
+    "experiment_name"	   : "rosen_decouple",
+    "main_file"            : "rosen_d",
     "acquisition"          : "PES",
     "transformations"      : [],
     "fit_mean"             : "False",
-    "max_time_mins"        : 15,
+    "max_finished_jobs"    : 150,
     "polling_time"         : 0.1,
     "constraint_delta"     : 1e-4,
     "stability_jitter"     : 1e-6,
@@ -15,14 +16,14 @@
         "x" : {
             "type" : "FLOAT",
             "size" : 1,
-            "min"  : 0,
-            "max"  : 1
+            "min"  : -2,
+            "max"  : 2
         },
         "y" : {
             "type" : "FLOAT",
             "size" : 1,
-            "min"  : 0,
-            "max"  : 1
+            "min"  : -2,
+            "max"  : 2
         }
     },
     "tasks" : {
@@ -36,13 +37,7 @@
             "type": "constraint",
             "group": 2,
             "main_file":"c1",
-	    "cost": 10000
-        },
-        "c2" : {
-            "type" : "constraint",
-            "group": 3,
-            "main_file":"c2",
-	    "cost": 1
+	    "cost" : 1
         }
     }
 }

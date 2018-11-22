@@ -29,17 +29,20 @@
         "f" : {
             "type" : "objective",
             "group": 1,
-            "main_file":"f"
+            "main_file":"f",
+	    "cost": 1
         },
         "c1" : {
             "type": "constraint",
             "group": 2,
-            "main_file":"c1"
+            "main_file": "c1",
+	    "cost": 10000
         },
         "c2" : {
             "type" : "constraint",
             "group": 3,
-            "main_file":"c2"
+            "main_file":"c2",
+	    "cost": 1
         }
     }
 }
