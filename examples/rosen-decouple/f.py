@@ -7,13 +7,11 @@ import time
 def main(job_id, params):
   x1 = params['x']
   x2 = params['y']
+  a = 1
+  b = 100
 
-  c1 = 1.5 - x1 - 2.0*x2 - 0.5*np.sin(2*np.pi*(x1**2 - 2.0*x2))
-  c1 = -c1
-
-  time.sleep(2)
-  
-  return {'c1' : c1}
+  f  = (a - x1)**2 + b*(x2 - x1**2)**2
+  return {'f' : f}
 
 # def true_func(job_id, params):
 #   return toy(params['x'], params['y'])

@@ -1,32 +1,31 @@
 {
     "language"             : "PYTHON",
-    "main_file"            : "toy",
+    "main_file"            : "branin_d",
     "acquisition"          : "PES",
     "transformations"      : [],
     "fit_mean"             : "False",
-    "max_time_mins"        : 15,
+    "max_finished_jobs"    : 150,
     "polling_time"         : 0.1,
     "constraint_delta"     : 1e-4,
     "stability_jitter"     : 1e-6,
     "use_multi_delta"      : "False",
-    "recommendations"      : "end-all",
+    "recommendations"      : "during",
     "likelihood"           : "noiseless",
     "variables" : {
         "x" : {
             "type" : "FLOAT",
             "size" : 1,
-            "min"  : 0,
-            "max"  : 1
+            "min"  : -5,
+            "max"  : 10
         },
         "y" : {
             "type" : "FLOAT",
             "size" : 1,
             "min"  : 0,
-            "max"  : 1
+            "max"  : 15
         }
     },
     "tasks" : {
-
         "f" : {
             "type" : "objective",
             "group": 1,
@@ -36,11 +35,6 @@
             "type": "constraint",
             "group": 2,
             "main_file":"c1"
-        },
-        "c2" : {
-            "type" : "constraint",
-            "group": 3,
-            "main_file":"c2"
         }
     }
 }

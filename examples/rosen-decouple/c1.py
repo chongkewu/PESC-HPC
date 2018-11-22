@@ -5,9 +5,16 @@ import math
 import time
 
 def main(job_id, params):
+  x1 = params['x']
+  x2 = params['y']
 
-    # time.sleep(0)
-    return {'f' : params['x'] + params['y']}
+  a = 1
+  b = 100
+
+  c1 = -x1**2 - (x2-1)**2/2 + 2
+
+
+  return {'c1' : c1}
 
 # def true_func(job_id, params):
 #   return toy(params['x'], params['y'])
