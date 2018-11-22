@@ -1,0 +1,3453 @@
+
+Getting suggestion for c1, f...
+
+
+Suggestion:     
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:02:07
+Status: 1 pending, 0 complete.
+ID(s) of pending job(s) for f: 1
+
+
+Fitting GP to 0 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+
+No feasible solution found (yet).
+
+Maximum total probability of satisfying constraints = 0.50000
+  Probability of satisfying                 c1 constraint: 0.50000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.878418    
+                y             float      -0.986816   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.845788    
+                y             float      -0.314240   
+Current time: 2018-11-20 17:02:11
+Status: 1 pending, 1 complete.
+ID(s) of pending job(s) for c1: 2
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 1 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 3609.000000
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.940186    
+                y             float      -0.236084   
+
+Best observed values satisfying constraints is 3609.000000, at location:
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      -2.000000   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.063612    
+                y             float      0.077695    
+Current time: 2018-11-20 17:02:15
+Status: 1 pending, 2 complete.
+ID(s) of pending job(s) for f: 3
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 2 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 203.546359
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.071777    
+                y             float      -0.172363   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.734047    
+                y             float      0.997467    
+Current time: 2018-11-20 17:02:19
+Status: 1 pending, 3 complete.
+ID(s) of pending job(s) for f: 4
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 3 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 338.998413
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.934814    
+                y             float      -0.226807   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.364897    
+                y             float      1.924859    
+Current time: 2018-11-20 17:02:25
+Status: 1 pending, 4 complete.
+ID(s) of pending job(s) for f: 5
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 4 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 162.524803
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.046387    
+                y             float      -0.209473   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.356272    
+                y             float      1.199956    
+Current time: 2018-11-20 17:02:30
+Status: 1 pending, 5 complete.
+ID(s) of pending job(s) for f: 6
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 5 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 175.073330
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.945679    
+                y             float      -0.204712   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.409456    
+                y             float      -1.098015   
+Current time: 2018-11-20 17:02:36
+Status: 1 pending, 6 complete.
+ID(s) of pending job(s) for f: 7
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 6 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99995): 51.582158
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.745605    
+                y             float      -0.354004   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.346265    
+                y             float      -1.995757   
+Current time: 2018-11-20 17:02:42
+Status: 1 pending, 7 complete.
+ID(s) of pending job(s) for f: 8
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 7 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 44.104086
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.840088    
+                y             float      -0.257080   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.851410    
+                y             float      2.000000    
+Current time: 2018-11-20 17:02:48
+Status: 1 pending, 8 complete.
+ID(s) of pending job(s) for f: 9
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 8 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -52.065792
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.497932    
+                y             float      -0.321887   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.587579   
+                y             float      0.759353    
+Current time: 2018-11-20 17:02:57
+Status: 1 pending, 9 complete.
+ID(s) of pending job(s) for f: 10
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 9 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 3.566062
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.741455    
+                y             float      -0.291260   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.796598   
+                y             float      2.000000    
+Current time: 2018-11-20 17:03:06
+Status: 1 pending, 10 complete.
+ID(s) of pending job(s) for f: 11
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 10 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -18.124325
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.759033    
+                y             float      -0.301025   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.019136   
+                y             float      -0.297960   
+Current time: 2018-11-20 17:03:16
+Status: 1 pending, 11 complete.
+ID(s) of pending job(s) for f: 12
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 11 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): -20.933373
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.749756    
+                y             float      -0.416748   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.560369    
+                y             float      -0.397832   
+Current time: 2018-11-20 17:03:26
+Status: 1 pending, 12 complete.
+ID(s) of pending job(s) for f: 13
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 12 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): 35.939020
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.554199    
+                y             float      -0.295410   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.242786   
+                y             float      0.857439    
+Current time: 2018-11-20 17:03:36
+Status: 1 pending, 13 complete.
+ID(s) of pending job(s) for f: 14
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 13 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): 58.933281
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.822998    
+                y             float      -0.118896   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.422552   
+                y             float      -1.300551   
+Current time: 2018-11-20 17:03:48
+Status: 1 pending, 14 complete.
+ID(s) of pending job(s) for f: 15
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 14 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): 53.905944
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.764404    
+                y             float      -0.177490   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.120274    
+                y             float      1.108625    
+Current time: 2018-11-20 17:03:59
+Status: 1 pending, 15 complete.
+ID(s) of pending job(s) for f: 16
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 15 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99991): 86.776163
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.803223    
+                y             float      -0.282715   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.809533    
+                y             float      0.603714    
+Current time: 2018-11-20 17:04:10
+Status: 1 pending, 16 complete.
+ID(s) of pending job(s) for f: 17
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 16 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 60.286371
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.772705    
+                y             float      -0.197510   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.302882    
+                y             float      0.090962    
+Current time: 2018-11-20 17:04:23
+Status: 1 pending, 17 complete.
+ID(s) of pending job(s) for f: 18
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 17 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 4.288533
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.262451    
+                y             float      -0.187256   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.385429   
+                y             float      -0.034904   
+Current time: 2018-11-20 17:04:38
+Status: 1 pending, 18 complete.
+ID(s) of pending job(s) for f: 19
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 18 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 65.953205
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.751953    
+                y             float      -0.240234   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.572575    
+                y             float      0.323412    
+Current time: 2018-11-20 17:04:55
+Status: 1 pending, 19 complete.
+ID(s) of pending job(s) for f: 20
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 19 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 47.062273
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.709473    
+                y             float      -0.188965   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.488349    
+                y             float      2.000000    
+Current time: 2018-11-20 17:05:30
+Status: 1 pending, 20 complete.
+ID(s) of pending job(s) for f: 21
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 20 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 100.327489
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.821289    
+                y             float      -0.305664   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.733231   
+                y             float      2.000000    
+Current time: 2018-11-20 17:05:56
+Status: 1 pending, 21 complete.
+ID(s) of pending job(s) for f: 22
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 21 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): 87.506738
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.814697    
+                y             float      -0.243408   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.101286   
+                y             float      1.063891    
+Current time: 2018-11-20 17:06:17
+Status: 1 pending, 22 complete.
+ID(s) of pending job(s) for f: 23
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 22 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 47.215603
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.709473    
+                y             float      -0.188965   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.851425   
+                y             float      0.567606    
+Current time: 2018-11-20 17:06:40
+Status: 1 pending, 23 complete.
+ID(s) of pending job(s) for f: 24
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 23 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99991): 40.471684
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.793701    
+                y             float      -0.031006   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.092773    
+                y             float      1.378391    
+Current time: 2018-11-20 17:07:02
+Status: 1 pending, 24 complete.
+ID(s) of pending job(s) for f: 25
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 24 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): 34.938990
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.554199    
+                y             float      -0.295410   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.274387    
+                y             float      1.554034    
+Current time: 2018-11-20 17:07:24
+Status: 1 pending, 25 complete.
+ID(s) of pending job(s) for f: 26
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 25 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): 38.452055
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.793701    
+                y             float      -0.031006   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.929038    
+                y             float      0.773458    
+Current time: 2018-11-20 17:07:47
+Status: 1 pending, 26 complete.
+ID(s) of pending job(s) for f: 27
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 26 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): 44.226530
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.744507    
+                y             float      -0.136353   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.403457   
+                y             float      1.986860    
+Current time: 2018-11-20 17:08:06
+Status: 1 pending, 27 complete.
+ID(s) of pending job(s) for f: 28
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 27 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): 14.752713
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.643066    
+                y             float      -0.013184   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.136881   
+                y             float      0.084903    
+Current time: 2018-11-20 17:08:23
+Status: 1 pending, 28 complete.
+ID(s) of pending job(s) for f: 29
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 28 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99990): 36.068932
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.647217    
+                y             float      -0.200928   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.681204    
+                y             float      0.447181    
+Current time: 2018-11-20 17:08:41
+Status: 1 pending, 29 complete.
+ID(s) of pending job(s) for f: 30
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 29 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 41.552855
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.781006    
+                y             float      -0.072998   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.992327    
+                y             float      1.058909    
+Current time: 2018-11-20 17:08:59
+Status: 1 pending, 30 complete.
+ID(s) of pending job(s) for f: 31
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 30 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 24.099245
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.553101    
+                y             float      -0.202759   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.654077    
+                y             float      0.261807    
+Current time: 2018-11-20 17:09:14
+Status: 1 pending, 31 complete.
+ID(s) of pending job(s) for f: 32
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 31 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99990): 44.363375
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.616943    
+                y             float      -0.283936   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.348829    
+                y             float      1.772083    
+Current time: 2018-11-20 17:09:29
+Status: 1 pending, 32 complete.
+ID(s) of pending job(s) for f: 33
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 32 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99991): 19.449284
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.736084    
+                y             float      0.089111    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.420013    
+                y             float      0.147327    
+Current time: 2018-11-20 17:09:53
+Status: 1 pending, 33 complete.
+ID(s) of pending job(s) for f: 34
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 33 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): 79.352080
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.759033    
+                y             float      -0.301025   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.448476   
+                y             float      0.233430    
+Current time: 2018-11-20 17:10:07
+Status: 1 pending, 34 complete.
+ID(s) of pending job(s) for f: 35
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 34 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 40.284990
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.596191    
+                y             float      -0.278809   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.054274    
+                y             float      0.041873    
+Current time: 2018-11-20 17:10:23
+Status: 1 pending, 35 complete.
+ID(s) of pending job(s) for f: 36
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 35 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): 53.129785
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.802002    
+                y             float      -0.093994   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.785904   
+                y             float      0.756588    
+Current time: 2018-11-20 17:10:46
+Status: 1 pending, 36 complete.
+ID(s) of pending job(s) for f: 37
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 36 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99998): 53.039697
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.801786    
+                y             float      -0.093575   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.846518    
+                y             float      0.803210    
+Current time: 2018-11-20 17:11:05
+Status: 1 pending, 37 complete.
+ID(s) of pending job(s) for f: 38
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 37 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 81.704576
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.784912    
+                y             float      -0.280029   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.635558   
+                y             float      0.365897    
+Current time: 2018-11-20 17:11:22
+Status: 1 pending, 38 complete.
+ID(s) of pending job(s) for f: 39
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 38 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 61.663938
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.843994    
+                y             float      -0.081299   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.337730    
+                y             float      0.253464    
+Current time: 2018-11-20 17:11:38
+Status: 1 pending, 39 complete.
+ID(s) of pending job(s) for f: 40
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 39 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99992): 53.269935
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.691162    
+                y             float      -0.248779   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.186187   
+                y             float      1.545494    
+Current time: 2018-11-20 17:12:05
+Status: 1 pending, 40 complete.
+ID(s) of pending job(s) for f: 41
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 40 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99995): 69.511959
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.839600    
+                y             float      -0.131592   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.271525   
+                y             float      0.068466    
+Current time: 2018-11-20 17:12:21
+Status: 1 pending, 41 complete.
+ID(s) of pending job(s) for f: 42
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 41 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99998): 57.996630
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.764404    
+                y             float      -0.177490   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.972313   
+                y             float      0.967764    
+Current time: 2018-11-20 17:12:40
+Status: 1 pending, 42 complete.
+ID(s) of pending job(s) for f: 43
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 42 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 49.771348
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.633545    
+                y             float      -0.300537   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.264346    
+                y             float      1.693337    
+Current time: 2018-11-20 17:13:01
+Status: 1 pending, 43 complete.
+ID(s) of pending job(s) for f: 44
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 43 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99998): 38.022236
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.756104    
+                y             float      -0.052002   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.332511   
+                y             float      1.700114    
+Current time: 2018-11-20 17:13:18
+Status: 1 pending, 44 complete.
+ID(s) of pending job(s) for f: 45
+
+
+Fitting GP to 1 data for c1 task...
+Fitting GP to 44 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99996): 30.139840
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.533936    
+                y             float      -0.267334   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.474155    
+                y             float      2.000000    
+Current time: 2018-11-20 17:13:37
+Status: 1 pending, 45 complete.
+ID(s) of pending job(s) for c1: 46
+
+
+Fitting GP to 2 data for c1 task...
+Fitting GP to 44 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): 78.502019
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.759033    
+                y             float      -0.301025   
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.904530    
+                y             float      0.630007    
+Current time: 2018-11-20 17:13:58
+Status: 1 pending, 46 complete.
+ID(s) of pending job(s) for c1: 47
+
+
+Fitting GP to 3 data for c1 task...
+Fitting GP to 44 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): 0.048019
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.807336    
+                y             float      0.646206    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.177116    
+                y             float      0.010064    
+Current time: 2018-11-20 17:14:14
+Status: 1 pending, 47 complete.
+ID(s) of pending job(s) for f: 48
+
+
+Fitting GP to 3 data for c1 task...
+Fitting GP to 45 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 0.049776
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.807435    
+                y             float      0.646607    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.734365    
+                y             float      0.586516    
+Current time: 2018-11-20 17:14:32
+Status: 1 pending, 48 complete.
+ID(s) of pending job(s) for f: 49
+
+
+Fitting GP to 3 data for c1 task...
+Fitting GP to 46 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): 0.491499
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.828857    
+                y             float      0.613525    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.773538    
+                y             float      1.162133    
+Current time: 2018-11-20 17:14:50
+Status: 1 pending, 49 complete.
+ID(s) of pending job(s) for c1: 50
+
+
+Fitting GP to 4 data for c1 task...
+Fitting GP to 46 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 0.024252
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.851074    
+                y             float      0.720215    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.167580    
+                y             float      1.359914    
+Current time: 2018-11-20 17:15:06
+Status: 1 pending, 50 complete.
+ID(s) of pending job(s) for f: 51
+
+
+Fitting GP to 4 data for c1 task...
+Fitting GP to 47 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99995): 0.037277
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.880722    
+                y             float      0.770315    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.328906    
+                y             float      1.834494    
+Current time: 2018-11-20 17:15:26
+Status: 1 pending, 51 complete.
+ID(s) of pending job(s) for c1: 52
+
+
+Fitting GP to 5 data for c1 task...
+Fitting GP to 47 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99990): -0.192650
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.041072    
+                y             float      1.084386    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.083218    
+                y             float      1.185609    
+Current time: 2018-11-20 17:15:42
+Status: 1 pending, 52 complete.
+ID(s) of pending job(s) for f: 53
+
+
+Fitting GP to 5 data for c1 task...
+Fitting GP to 48 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 0.041549
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.867554    
+                y             float      0.748413    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.954235    
+                y             float      0.913159    
+Current time: 2018-11-20 17:15:59
+Status: 1 pending, 53 complete.
+ID(s) of pending job(s) for f: 54
+
+
+Fitting GP to 5 data for c1 task...
+Fitting GP to 49 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): 0.040567
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.851074    
+                y             float      0.720215    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.307232    
+                y             float      1.700527    
+Current time: 2018-11-20 17:16:17
+Status: 1 pending, 54 complete.
+ID(s) of pending job(s) for c1: 55
+
+
+Fitting GP to 6 data for c1 task...
+Fitting GP to 49 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): -0.102629
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.063232    
+                y             float      1.129150    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.285876    
+                y             float      1.750662    
+Current time: 2018-11-20 17:16:33
+Status: 1 pending, 55 complete.
+ID(s) of pending job(s) for c1: 56
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 49 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.088363
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.063250    
+                y             float      1.128607    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.028161    
+                y             float      1.017372    
+Current time: 2018-11-20 17:16:48
+Status: 1 pending, 56 complete.
+ID(s) of pending job(s) for f: 57
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 50 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.071921
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.063558    
+                y             float      1.129455    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.166179    
+                y             float      0.151485    
+Current time: 2018-11-20 17:17:04
+Status: 1 pending, 57 complete.
+ID(s) of pending job(s) for f: 58
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 51 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.074070
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.063758    
+                y             float      1.129725    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.299505   
+                y             float      1.897445    
+Current time: 2018-11-20 17:17:21
+Status: 1 pending, 58 complete.
+ID(s) of pending job(s) for f: 59
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 52 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99999): -0.083875
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.087025    
+                y             float      1.181707    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.210431    
+                y             float      1.483748    
+Current time: 2018-11-20 17:17:38
+Status: 1 pending, 59 complete.
+ID(s) of pending job(s) for f: 60
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 53 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.082346
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.087207    
+                y             float      1.182009    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.171502   
+                y             float      -0.081993   
+Current time: 2018-11-20 17:17:56
+Status: 1 pending, 60 complete.
+ID(s) of pending job(s) for f: 61
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 54 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.091856
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.087673    
+                y             float      1.182791    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.844927    
+                y             float      0.704552    
+Current time: 2018-11-20 17:18:11
+Status: 1 pending, 61 complete.
+ID(s) of pending job(s) for f: 62
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 55 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.088060
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.087928    
+                y             float      1.183820    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.062226    
+                y             float      1.128313    
+Current time: 2018-11-20 17:18:28
+Status: 1 pending, 62 complete.
+ID(s) of pending job(s) for f: 63
+
+
+Fitting GP to 7 data for c1 task...
+Fitting GP to 56 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99997): -0.060830
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088411    
+                y             float      1.184128    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.760439    
+                y             float      -2.000000   
+Current time: 2018-11-20 17:18:46
+Status: 1 pending, 63 complete.
+ID(s) of pending job(s) for c1: 64
+
+
+Fitting GP to 8 data for c1 task...
+Fitting GP to 56 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:0.99993): -0.062550
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088489    
+                y             float      1.184451    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.748944    
+                y             float      0.533786    
+Current time: 2018-11-20 17:19:01
+Status: 1 pending, 64 complete.
+ID(s) of pending job(s) for f: 65
+
+
+Fitting GP to 8 data for c1 task...
+Fitting GP to 57 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.075146
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088644    
+                y             float      1.184838    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.118636    
+                y             float      1.255198    
+Current time: 2018-11-20 17:19:18
+Status: 1 pending, 65 complete.
+ID(s) of pending job(s) for f: 66
+
+
+Fitting GP to 8 data for c1 task...
+Fitting GP to 58 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.046544
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088701    
+                y             float      1.185420    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.771955    
+                y             float      -1.547499   
+Current time: 2018-11-20 17:19:34
+Status: 1 pending, 66 complete.
+ID(s) of pending job(s) for c1: 67
+
+
+Fitting GP to 9 data for c1 task...
+Fitting GP to 58 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.045841
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088761    
+                y             float      1.185463    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.303192    
+                y             float      1.706657    
+Current time: 2018-11-20 17:19:52
+Status: 1 pending, 67 complete.
+ID(s) of pending job(s) for f: 68
+
+
+Fitting GP to 9 data for c1 task...
+Fitting GP to 59 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.037511
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.088880    
+                y             float      1.185865    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      2.000000    
+                y             float      -2.000000   
+Current time: 2018-11-20 17:20:08
+Status: 1 pending, 68 complete.
+ID(s) of pending job(s) for c1: 69
+
+
+Fitting GP to 10 data for c1 task...
+Fitting GP to 59 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.048268
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.089117    
+                y             float      1.186421    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.751550    
+                y             float      -1.564009   
+Current time: 2018-11-20 17:20:23
+Status: 1 pending, 69 complete.
+ID(s) of pending job(s) for c1: 70
+
+
+Fitting GP to 11 data for c1 task...
+Fitting GP to 59 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.037174
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.089117    
+                y             float      1.186421    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.857532   
+                y             float      -1.966369   
+Current time: 2018-11-20 17:20:39
+Status: 1 pending, 70 complete.
+ID(s) of pending job(s) for f: 71
+
+
+Fitting GP to 11 data for c1 task...
+Fitting GP to 60 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.021644
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.089301    
+                y             float      1.186492    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.048776   
+                y             float      -0.025409   
+Current time: 2018-11-20 17:20:54
+Status: 1 pending, 71 complete.
+ID(s) of pending job(s) for f: 72
+
+
+Fitting GP to 11 data for c1 task...
+Fitting GP to 61 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.023492
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.089495    
+                y             float      1.187005    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.489170    
+                y             float      0.261356    
+Current time: 2018-11-20 17:21:12
+Status: 1 pending, 72 complete.
+ID(s) of pending job(s) for f: 73
+
+
+Fitting GP to 11 data for c1 task...
+Fitting GP to 62 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.021798
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.089601    
+                y             float      1.187372    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.945324   
+                y             float      -1.700612   
+Current time: 2018-11-20 17:21:28
+Status: 1 pending, 73 complete.
+ID(s) of pending job(s) for f: 74
+
+
+Fitting GP to 11 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.026583
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090145    
+                y             float      1.188105    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:21:45
+Status: 1 pending, 74 complete.
+ID(s) of pending job(s) for c1: 75
+
+
+Fitting GP to 12 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.028046
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090546    
+                y             float      1.188891    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.125723   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:22:03
+Status: 1 pending, 75 complete.
+ID(s) of pending job(s) for c1: 76
+
+
+Fitting GP to 13 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.028785
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090551    
+                y             float      1.189440    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.433100   
+                y             float      -1.990512   
+Current time: 2018-11-20 17:22:19
+Status: 1 pending, 76 complete.
+ID(s) of pending job(s) for c1: 77
+
+
+Fitting GP to 14 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.026798
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090728    
+                y             float      1.189243    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      2.000000    
+Current time: 2018-11-20 17:22:35
+Status: 1 pending, 77 complete.
+ID(s) of pending job(s) for c1: 78
+
+
+Fitting GP to 15 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.033409
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090623    
+                y             float      1.189843    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      -1.439415   
+Current time: 2018-11-20 17:22:50
+Status: 1 pending, 78 complete.
+ID(s) of pending job(s) for c1: 79
+
+
+Fitting GP to 16 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.028391
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.090897    
+                y             float      1.190066    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.650892   
+                y             float      2.000000    
+Current time: 2018-11-20 17:23:06
+Status: 1 pending, 79 complete.
+ID(s) of pending job(s) for c1: 80
+
+
+Fitting GP to 17 data for c1 task...
+Fitting GP to 63 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.025167
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.091191    
+                y             float      1.190214    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.547391   
+                y             float      0.144925    
+Current time: 2018-11-20 17:23:22
+Status: 1 pending, 80 complete.
+ID(s) of pending job(s) for f: 81
+
+
+Fitting GP to 17 data for c1 task...
+Fitting GP to 64 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.027774
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.091407    
+                y             float      1.190729    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      0.314609    
+Current time: 2018-11-20 17:23:37
+Status: 1 pending, 81 complete.
+ID(s) of pending job(s) for c1: 82
+
+
+Fitting GP to 18 data for c1 task...
+Fitting GP to 64 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.029131
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.091345    
+                y             float      1.191105    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.570679   
+                y             float      -0.311637   
+Current time: 2018-11-20 17:23:54
+Status: 1 pending, 82 complete.
+ID(s) of pending job(s) for c1: 83
+
+
+Fitting GP to 19 data for c1 task...
+Fitting GP to 64 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.024660
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.091582    
+                y             float      1.191954    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.845682   
+                y             float      -1.347103   
+Current time: 2018-11-20 17:24:10
+Status: 1 pending, 83 complete.
+ID(s) of pending job(s) for c1: 84
+
+
+Fitting GP to 20 data for c1 task...
+Fitting GP to 64 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.030374
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.091829    
+                y             float      1.192104    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      2.000000    
+                y             float      -2.000000   
+Current time: 2018-11-20 17:24:27
+Status: 1 pending, 84 complete.
+ID(s) of pending job(s) for f: 85
+
+
+Fitting GP to 20 data for c1 task...
+Fitting GP to 65 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.028580
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.092164    
+                y             float      1.192337    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.813452    
+                y             float      -2.000000   
+Current time: 2018-11-20 17:24:44
+Status: 1 pending, 85 complete.
+ID(s) of pending job(s) for f: 86
+
+
+Fitting GP to 20 data for c1 task...
+Fitting GP to 66 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.003261
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.958460    
+                y             float      0.911225    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.914151   
+                y             float      1.444276    
+Current time: 2018-11-20 17:25:01
+Status: 1 pending, 86 complete.
+ID(s) of pending job(s) for c1: 87
+
+
+Fitting GP to 21 data for c1 task...
+Fitting GP to 66 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.004541
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.955952    
+                y             float      0.913478    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.743023   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:25:18
+Status: 1 pending, 87 complete.
+ID(s) of pending job(s) for c1: 88
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 66 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.005364
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.956658    
+                y             float      0.913537    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.483198   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:25:35
+Status: 1 pending, 88 complete.
+ID(s) of pending job(s) for f: 89
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 67 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.005681
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.957187    
+                y             float      0.913547    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.590739   
+                y             float      -1.619161   
+Current time: 2018-11-20 17:25:53
+Status: 1 pending, 89 complete.
+ID(s) of pending job(s) for f: 90
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 68 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.005874
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.957389    
+                y             float      0.914068    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.539384    
+                y             float      -2.000000   
+Current time: 2018-11-20 17:26:11
+Status: 1 pending, 90 complete.
+ID(s) of pending job(s) for f: 91
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 69 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.007770
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027716    
+                y             float      1.054686    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.740767   
+                y             float      -0.518748   
+Current time: 2018-11-20 17:26:31
+Status: 1 pending, 91 complete.
+ID(s) of pending job(s) for f: 92
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 70 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.006449
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027422    
+                y             float      1.054389    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      0.057281    
+Current time: 2018-11-20 17:26:50
+Status: 1 pending, 92 complete.
+ID(s) of pending job(s) for f: 93
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 71 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.005726
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027452    
+                y             float      1.054149    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.872029   
+                y             float      0.411609    
+Current time: 2018-11-20 17:27:08
+Status: 1 pending, 93 complete.
+ID(s) of pending job(s) for f: 94
+
+
+Fitting GP to 22 data for c1 task...
+Fitting GP to 72 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.007435
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027194    
+                y             float      1.053955    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.153697   
+                y             float      0.531870    
+Current time: 2018-11-20 17:27:28
+Status: 1 pending, 94 complete.
+ID(s) of pending job(s) for c1: 95
+
+
+Fitting GP to 23 data for c1 task...
+Fitting GP to 72 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.006291
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027154    
+                y             float      1.053594    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.192338   
+                y             float      -0.344973   
+Current time: 2018-11-20 17:27:46
+Status: 1 pending, 95 complete.
+ID(s) of pending job(s) for c1: 96
+
+
+Fitting GP to 24 data for c1 task...
+Fitting GP to 72 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.008001
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.027158    
+                y             float      1.053082    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      1.985087    
+                y             float      -1.652730   
+Current time: 2018-11-20 17:28:05
+Status: 1 pending, 96 complete.
+ID(s) of pending job(s) for f: 97
+
+
+Fitting GP to 24 data for c1 task...
+Fitting GP to 73 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.014997
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.894287    
+                y             float      0.798096    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.665527   
+                y             float      1.686035    
+Current time: 2018-11-20 17:28:24
+Status: 1 pending, 97 complete.
+ID(s) of pending job(s) for c1: 98
+
+
+Fitting GP to 25 data for c1 task...
+Fitting GP to 73 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.012830
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.893870    
+                y             float      0.798751    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.805643   
+                y             float      -0.198984   
+Current time: 2018-11-20 17:28:42
+Status: 1 pending, 98 complete.
+ID(s) of pending job(s) for c1: 99
+
+
+Fitting GP to 26 data for c1 task...
+Fitting GP to 73 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.015239
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.894395    
+                y             float      0.799320    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) c1 at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -0.355644   
+                y             float      0.556802    
+Current time: 2018-11-20 17:29:03
+Status: 1 pending, 99 complete.
+ID(s) of pending job(s) for c1: 100
+
+
+Fitting GP to 27 data for c1 task...
+Fitting GP to 73 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.017280
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.894826    
+                y             float      0.799826    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.103798   
+                y             float      -2.000000   
+Current time: 2018-11-20 17:29:23
+Status: 1 pending, 100 complete.
+ID(s) of pending job(s) for f: 101
+
+
+Fitting GP to 27 data for c1 task...
+Fitting GP to 74 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.015992
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.894656    
+                y             float      0.800438    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.281221   
+                y             float      -1.832837   
+Current time: 2018-11-20 17:29:43
+Status: 1 pending, 101 complete.
+ID(s) of pending job(s) for f: 102
+
+
+Fitting GP to 27 data for c1 task...
+Fitting GP to 75 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.016179
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.894900    
+                y             float      0.800739    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -2.000000   
+                y             float      0.831389    
+Current time: 2018-11-20 17:30:04
+Status: 1 pending, 102 complete.
+ID(s) of pending job(s) for f: 103
+
+
+Fitting GP to 27 data for c1 task...
+Fitting GP to 76 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.015404
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.895233    
+                y             float      0.801299    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      2.000000    
+                y             float      -0.448118   
+Current time: 2018-11-20 17:30:24
+Status: 1 pending, 103 complete.
+ID(s) of pending job(s) for f: 104
+
+
+Fitting GP to 27 data for c1 task...
+Fitting GP to 77 data for f task...
+Computing current best...
+Feasible solution found.
+
+Optimizing current best with scipy SLSQP
+
+Minimum expected objective value satisfying constraints w/ high prob (c1:1.00000): -0.016590
+
+At location:    
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      0.895628    
+                y             float      0.801512    
+
+Getting suggestion for c1, f...
+
+Initializing PES
+Computing PES on grid for f.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+Computing PES on grid for c1.
+Optimizing PES with L-BFGS (numerically estimating gradients)
+
+Suggestion: task(s) f at location
+                NAME          TYPE       VALUE
+                ----          ----       -----
+                x             float      -1.627889   
+                y             float      0.097685    
+Current time: 2018-11-20 17:30:46
+Status: 1 pending, 104 complete.
+ID(s) of pending job(s) for f: 105
+
+
+Fitting GP to 27 data for c1 task...
