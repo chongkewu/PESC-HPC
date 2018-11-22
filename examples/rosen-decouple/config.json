@@ -1,6 +1,6 @@
 {
     "language"             : "PYTHON",
-    "experiment_name"	   : "rosen_decouple",
+    "experiment-name"	   : "rosen_decouple",
     "main_file"            : "rosen_d",
     "acquisition"          : "PES",
     "transformations"      : [],
