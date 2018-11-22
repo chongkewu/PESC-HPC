@@ -9,7 +9,9 @@ import matplotlib.pyplot as plt
 import os
 import branin_d
 import rosen_d
-def plot_EMFP(foldername, getxy = False):
+from scipy import interpolate
+import numpy as np
+def plot_EMFP(foldername, getxy = False, getpltxy = False):
     # plot Minimum Feasible Expected mean value w.r.t evaluate number
     EMFP = [] # expected mean with feasible probability 
     numlist = []
@@ -37,6 +39,10 @@ def plot_EMFP(foldername, getxy = False):
     if getxy == True:
         return xlist,ylist
     # begin plot
+    if getpltxy == True:
+        cost_axis = get_cost_axis(foldername)
+        Ev_cost = match_cost(EvID,cost_axis)   
+        return EvID,Ev_cost,EMFP        
     plt.figure()
     plt.subplot(1,2,1)
     plt.plot(EvID,EMFP)
@@ -82,7 +88,11 @@ def get_cost_axis(foldername, cost = [1,1], r_type = 'axis'):
 def match_cost(EvID,cost_axis):
     Ev_cost = [1]*len(EvID)
     for (num,ID) in enumerate(EvID):
-        Ev_cost[num] = cost_axis[int(ID)]
+        try:
+            Ev_cost[num] = cost_axis[int(ID)-1]
+        except:
+            print("what happen???")
+            return
     return Ev_cost
 
 def plot_util(foldername, func = 'rosen'):
@@ -136,8 +146,55 @@ def plot_util(foldername, func = 'rosen'):
     plt.xlabel('cost')
     plt.ylabel('Utility')
     plt.title('PESC decouple evaluation for '+ func)
+    
+def plot_EMFP_repeat(foldername):
+    # read the total number of repeat
+    dirname = os.listdir(foldername)
+    repeatdir = [x for x in dirname if 'output_repeat' in x]
+    # for each output_repeat_* folder, read the plot data
+    num_repeat = len(repeatdir)
+    EvID = [1]*num_repeat
+    Evcost = [1]*num_repeat
+    EMFP = [1]*num_repeat
+    for num in range(num_repeat):
+        EvID[num],Evcost[num],EMFP[num] = plot_EMFP(foldername+'\\'+repeatdir[num]\
+            ,getpltxy = True)
+    # Count the total unique x points for all curves
+    EMFP_cost = EMFP
+    EvID_total = []
+    Evcost_total = []
+    for num in range(num_repeat):
+        EvID_total = list(set(EvID_total + EvID[num]))
+        Evcost_total = list(set(Evcost_total + Evcost[num]))
+    plot_mean_err(EvID_total,EvID,EMFP,num_repeat)
+    
+def plot_mean_err(EvID_total,EvID,EMFP,num_repeat):
+    # Now plot mean and error bar.
+    Evmean = [[]]*len(EvID_total)
+    Everr = [1]*len(EvID_total)
+    for num,val in enumerate(EvID_total):
+        for num1 in range(num_repeat):
+            for num2 in range(len(EvID[num1])):
+                if EvID_total[num] == EvID[num1][num2]:
+                    Evmean[num] = Evmean[num]+[EMFP[num1][num2]]
+                    break
+        Everr[num] = np.std(np.array(Evmean[num], np.float))
+        
+        Evmean[num] = np.mean(np.array(Evmean[num], np.float))#update Evmean
+        
+    plt.figure()
+    plt.errorbar(EvID_total, Evmean, yerr=Evmean, fmt='-o')
+                    
 if __name__ == "__main__":
+    
+# =============================================================================
+#     Usage example:
+#     funcname = "branin"
+#     foldername = "output_" + funcname + "_d"
+#     plot_util(foldername, func = funcname)
+#     plot_EMFP(foldername)
+# =============================================================================
     funcname = "branin"
-    foldername = "output_" + funcname + "_d"
-    plot_util(foldername, func = funcname)
-    plot_EMFP(foldername)
+    foldername = "output_" + funcname + "_d" + "_repeat"
+    plot_EMFP_repeat(foldername)
+    #plot_EMFP(foldername+'//'+'output_repeat_0')
