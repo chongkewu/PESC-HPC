@@ -8,6 +8,5 @@
 *.DS_Store
 *.pdf
 *.py~
-
-
+*.svg
 
